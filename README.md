@@ -14,26 +14,293 @@
 
 ## 🚀 About Me
 
-```javascript
-const developer = {
-    name: "Your Name",
-    location: "Tunisia 🇹🇳",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
-    technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
-        backEnd: ["Node.js", "Django", "Firebase"],
-        databases: ["MongoDB", "MySQL"],
-        devOps: ["Docker", "Git", "Linux"],
-        design: ["Adobe Creative Suite", "Figma"],
-        ai_ml: ["TensorFlow", "PyTorch"]
-    },
-    currentlyLearning: "Advanced AI/ML Techniques",
-    hobbies: ["Gaming", "Content Creation", "Open Source"]
-};
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Profile</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
----
+        body {
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5rem;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .code-editor {
+            background: #1e1e1e;
+            border-radius: 12px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            overflow: hidden;
+            border: 1px solid #333;
+        }
+
+        .editor-header {
+            background: #2d2d30;
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 1px solid #333;
+        }
+
+        .traffic-lights {
+            display: flex;
+            gap: 8px;
+        }
+
+        .light {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .red { background: #ff5f57; }
+        .yellow { background: #ffbd2e; }
+        .green { background: #28ca42; }
+
+        .file-name {
+            color: #cccccc;
+            font-size: 14px;
+            margin-left: 15px;
+        }
+
+        .line-numbers {
+            background: #252526;
+            color: #858585;
+            padding: 20px 10px;
+            text-align: right;
+            font-size: 14px;
+            line-height: 1.8;
+            border-right: 1px solid #333;
+            user-select: none;
+            min-width: 50px;
+        }
+
+        .code-content {
+            display: flex;
+        }
+
+        .code-area {
+            flex: 1;
+            padding: 20px;
+            color: #d4d4d4;
+            font-size: 14px;
+            line-height: 1.8;
+            overflow-x: auto;
+        }
+
+        .keyword { color: #569cd6; font-weight: bold; }
+        .string { color: #ce9178; }
+        .property { color: #9cdcfe; }
+        .bracket { color: #ffd700; }
+        .comment { color: #6a9955; font-style: italic; }
+        .value { color: #b5cea8; }
+
+        .developer-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            margin-top: 30px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+        }
+
+        .quick-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .info-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #ffd700;
+            transition: transform 0.3s ease;
+        }
+
+        .info-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .info-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #ffd700;
+        }
+
+        .skill-tag {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 4px 8px;
+            margin: 2px;
+            border-radius: 15px;
+            font-size: 12px;
+            color: white;
+        }
+
+        @media (max-width: 768px) {
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .code-area {
+                font-size: 12px;
+            }
+            
+            .quick-info {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .typing-animation {
+            border-right: 2px solid #ffd700;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            0%, 50% { border-color: transparent; }
+            51%, 100% { border-color: #ffd700; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="section-title">🚀 About Me</h2>
+        
+        <div class="code-editor">
+            <div class="editor-header">
+                <div class="traffic-lights">
+                    <div class="light red"></div>
+                    <div class="light yellow"></div>
+                    <div class="light green"></div>
+                </div>
+                <div class="file-name">developer.js</div>
+            </div>
+            
+            <div class="code-content">
+                <div class="line-numbers">
+                    <div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div><div>11</div><div>12</div><div>13</div><div>14</div><div>15</div><div>16</div><div>17</div><div>18</div><div>19</div>
+                </div>
+                <div class="code-area">
+                    <span class="keyword">const</span> <span class="property">developer</span> <span class="bracket">=</span> <span class="bracket">{</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">name</span><span class="bracket">:</span> <span class="string">"Your Name"</span><span class="bracket">,</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">location</span><span class="bracket">:</span> <span class="string">"Tunisia 🇹🇳"</span><span class="bracket">,</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">role</span><span class="bracket">:</span> <span class="string">"Full-Stack Developer"</span><span class="bracket">,</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">code</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"JavaScript"</span><span class="bracket">,</span> <span class="string">"TypeScript"</span><span class="bracket">,</span> <span class="string">"Python"</span><span class="bracket">,</span> <span class="string">"C#"</span><span class="bracket">,</span> <span class="string">"Java"</span><span class="bracket">],</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">technologies</span><span class="bracket">:</span> <span class="bracket">{</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="property">frontEnd</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"React"</span><span class="bracket">,</span> <span class="string">"HTML5"</span><span class="bracket">,</span> <span class="string">"CSS3"</span><span class="bracket">,</span> <span class="string">"Bootstrap"</span><span class="bracket">],</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="property">backEnd</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"Node.js"</span><span class="bracket">,</span> <span class="string">"Django"</span><span class="bracket">,</span> <span class="string">"Firebase"</span><span class="bracket">],</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="property">databases</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"MongoDB"</span><span class="bracket">,</span> <span class="string">"MySQL"</span><span class="bracket">],</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="property">devOps</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"Docker"</span><span class="bracket">,</span> <span class="string">"Git"</span><span class="bracket">,</span> <span class="string">"Linux"</span><span class="bracket">],</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="property">design</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"Adobe Creative Suite"</span><span class="bracket">,</span> <span class="string">"Figma"</span><span class="bracket">],</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="property">ai_ml</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"TensorFlow"</span><span class="bracket">,</span> <span class="string">"PyTorch"</span><span class="bracket">]</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="bracket">},</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">currentlyLearning</span><span class="bracket">:</span> <span class="string">"Advanced AI/ML Techniques"</span><span class="bracket">,</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;<span class="property">hobbies</span><span class="bracket">:</span> <span class="bracket">[</span><span class="string">"Gaming"</span><span class="bracket">,</span> <span class="string">"Content Creation"</span><span class="bracket">,</span> <span class="string">"Open Source"</span><span class="bracket">]</span><br>
+                    <span class="bracket">};</span><span class="typing-animation"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="developer-card">
+            <div class="quick-info">
+                <div class="info-card">
+                    <div class="info-title">💻 Programming Languages</div>
+                    <div>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">TypeScript</span>
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">C#</span>
+                        <span class="skill-tag">Java</span>
+                    </div>
+                </div>
+                
+                <div class="info-card">
+                    <div class="info-title">🎨 Frontend Technologies</div>
+                    <div>
+                        <span class="skill-tag">React</span>
+                        <span class="skill-tag">HTML5</span>
+                        <span class="skill-tag">CSS3</span>
+                        <span class="skill-tag">Bootstrap</span>
+                    </div>
+                </div>
+                
+                <div class="info-card">
+                    <div class="info-title">⚙️ Backend & Databases</div>
+                    <div>
+                        <span class="skill-tag">Node.js</span>
+                        <span class="skill-tag">Django</span>
+                        <span class="skill-tag">Firebase</span>
+                        <span class="skill-tag">MongoDB</span>
+                        <span class="skill-tag">MySQL</span>
+                    </div>
+                </div>
+                
+                <div class="info-card">
+                    <div class="info-title">🤖 AI/ML & Tools</div>
+                    <div>
+                        <span class="skill-tag">TensorFlow</span>
+                        <span class="skill-tag">PyTorch</span>
+                        <span class="skill-tag">Docker</span>
+                        <span class="skill-tag">Git</span>
+                        <span class="skill-tag">Linux</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Add some interactive effects
+        const infoCards = document.querySelectorAll('.info-card');
+        
+        infoCards.forEach(card => {
+            card.addEventListener('mouseenter', () => {
+                card.style.background = 'rgba(255, 255, 255, 0.15)';
+            });
+            
+            card.addEventListener('mouseleave', () => {
+                card.style.background = 'rgba(255, 255, 255, 0.1)';
+            });
+        });
+
+        // Simulate typing effect on load
+        document.addEventListener('DOMContentLoaded', () => {
+            const cursor = document.querySelector('.typing-animation');
+            setInterval(() => {
+                cursor.style.opacity = cursor.style.opacity === '0' ? '1' : '0';
+            }, 500);
+        });
+    </script>
+</body>
+</html>
 
 ## 📊 GitHub Analytics
 
