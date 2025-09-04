@@ -6,7 +6,7 @@
   
   *Building the future, one line of code at a time*
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies;Open+Source+Contributor)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies)
   
 </div>
 
