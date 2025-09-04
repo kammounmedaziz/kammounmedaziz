@@ -129,8 +129,9 @@ const developer = {
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=your-project-1&theme=dracula)](https://github.com/kammounmedaziz/your-project-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=your-project-2&theme=dracula)](https://github.com/kammounmedaziz/your-project-2)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=hikma-learn&theme=dracula)](https://github.com/kammounmedaziz/hikma-learn)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=The-Phantom-of-The-Digital-World&theme=dracula)](https://github.com/kammounmedaziz/The-Phantom-of-The-Digital-World)
+
   
 </div>
 
