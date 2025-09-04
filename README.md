@@ -129,11 +129,7 @@ const developer = {
 
 <div align="center">
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=hikma-learn&theme=dracula)](https://github.com/kammounmedaziz/hikma-learn)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=The-Phantom-of-The-Digital-World&theme=dracula)](https://github.com/kammounmedaziz/The-Phantom-of-The-Digital-World)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=AeroCraft&theme=dracula)](https://github.com/kammounmedaziz/AeroCraft)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=MedAzizPortofolio&theme=dracula)](https://github.com/kammounmedaziz/MedAzizPortofolio)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=AgriFlow&theme=dracula)](https://github.com/kammounmedaziz/AgriFlow)
-</div>
+
 
 ---
 
