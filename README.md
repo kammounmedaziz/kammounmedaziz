@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://gifdb.com/gif/rimuru-tempest-498-x-283-gif-52yjo213ol40t2qm.html)"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/rimuru-tempest-498-x-283-gif-52yjo213ol40t2qm.webp"  />
 
 ###
 
@@ -77,3 +77,5 @@
 </div>
 
 ###
+
+
