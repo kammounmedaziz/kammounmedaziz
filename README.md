@@ -57,7 +57,7 @@ const developer = {
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,csharp,java,c" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite" />
