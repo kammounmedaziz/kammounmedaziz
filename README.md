@@ -14,27 +14,26 @@
 
 ## 🚀 About Me
 
-
-```js
-// developer.js
-
+```javascript
 const developer = {
-  name: "Kammoun Mohamed Aziz",
-  location: "Tunisia 🇹🇳",
-  role: "Full-Stack Developer",
-  code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
-  technologies: {
-    frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
-    backEnd: ["Node.js", "Django", "Firebase"],
-    databases: ["MongoDB", "MySQL"],
-    devOps: ["Docker", "Git", "Linux"],
-    design: ["Adobe Creative Suite", "Figma"],
-    ai_ml: ["TensorFlow", "PyTorch"]
-  },
-  currentlyLearning: "Advanced AI/ML Techniques",
-  hobbies: ["Gaming 🎮", "Content Creation 🎥", "Open Source 🌍"]
+    name: "Your Name",
+    location: "Tunisia 🇹🇳",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
+    technologies: {
+        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
+        backEnd: ["Node.js", "Django", "Firebase"],
+        databases: ["MongoDB", "MySQL"],
+        devOps: ["Docker", "Git", "Linux"],
+        design: ["Adobe Creative Suite", "Figma"],
+        ai_ml: ["TensorFlow", "PyTorch"]
+    },
+    currentlyLearning: "Advanced AI/ML Techniques",
+    hobbies: ["Gaming", "Content Creation", "Open Source"]
 };
+```
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -58,7 +57,7 @@ const developer = {
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,csharp,java,c" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite" />
