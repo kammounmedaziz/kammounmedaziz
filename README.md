@@ -1,107 +1,174 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-
-
-
-###
+# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kammounmedaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  **🚀 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast**
+  
+  *Building the future, one line of code at a time*
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9146FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies;Open+Source+Contributor)
+  
 </div>
 
+---
 
-###
+## 🚀 About Me
 
-<img align="right" height="150" src="https://gifdb.com/images/high/rimuru-tempest-498-x-283-gif-52yjo213ol40t2qm.webp"  />
+```javascript
+const developer = {
+    name: "Your Name",
+    location: "Tunisia 🇹🇳",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
+    technologies: {
+        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap"],
+        backEnd: ["Node.js", "Django", "Firebase"],
+        databases: ["MongoDB", "MySQL"],
+        devOps: ["Docker", "Git", "Linux"],
+        design: ["Adobe Creative Suite", "Figma"],
+        ai_ml: ["TensorFlow", "PyTorch"]
+    },
+    currentlyLearning: "Advanced AI/ML Techniques",
+    hobbies: ["Gaming", "Content Creation", "Open Source"]
+};
+```
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="30" alt="behance logo"  />
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kammounmedaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="180" alt="languages graph"  />
 </div>
 
-###
-
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kammounmedaziz&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,csharp,java,c" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,django,firebase,mongodb,mysql" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
+
+### 🎨 Design & Creative
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />
+
+### 🤖 AI/ML & Hardware
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<img align="right" height="200" src="https://gifdb.com/images/high/rimuru-tempest-498-x-283-gif-52yjo213ol40t2qm.webp" />
+
+- 🔭 Working on **innovative web applications**
+- 🌱 Learning **advanced AI/ML techniques**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **full-stack development, design, or tech in general**
+- ⚡ Fun fact: **I love creating content and gaming**
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kammounmedaziz/kammounmedaziz/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kammounmedaziz&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=kammounmedaziz&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+  [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/@yourusername)
+  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/yourusername)
+  [![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://twitch.tv/yourusername)
+  [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/yourdiscord)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+  [![Behance](https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge)](https://behance.net/yourprofile)
+  [![Stack Overflow](https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/yourprofile)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=your-project-1&theme=dracula)](https://github.com/kammounmedaziz/your-project-1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=your-project-2&theme=dracula)](https://github.com/kammounmedaziz/your-project-2)
+  
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kammounmedaziz/kammounmedaziz/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📊 Detailed Stats
+
+<details>
+<summary>📈 More GitHub Stats</summary>
+
+<div align="center">
+  
+  ### Wakatime Stats
+  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kammounmedaziz&theme=dracula)](https://wakatime.com/@kammounmedaziz)
+  
+  ### Profile Views
+  ![Profile Views](https://komarev.com/ghpvc/?username=kammounmedaziz&label=Profile%20views&color=0e75b6&style=flat)
+  
+</div>
+
+</details>
+
+---
+
+<div align="center">
+  
+  ### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  **Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!**
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+</div>
