@@ -138,14 +138,6 @@ const developer = {
   
 </div>
 
----
-
-
-
-## 📊 Detailed Stats
-
-
-
 
 ---
 
