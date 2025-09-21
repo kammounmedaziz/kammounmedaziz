@@ -140,30 +140,12 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kammounmedaziz/kammounmedaziz/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 📊 Detailed Stats
 
-<details>
-<summary>📈 More GitHub Stats</summary>
 
-<div align="center">
-  
-  ### Wakatime Stats
-  [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kammounmedaziz&theme=dracula)](https://wakatime.com/@kammounmedaziz)
-  
-  ### Profile Views
-  ![Profile Views](https://komarev.com/ghpvc/?username=kammounmedaziz&label=Profile%20views&color=0e75b6&style=flat)
-  
-</div>
 
-</details>
 
 ---
 
