@@ -29,7 +29,7 @@ const developer = {
         ai_ml: ["TensorFlow", "PyTorch"]
     },
     currentlyLearning: "Advanced AI/ML Techniques",
-    hobbies: ["Gaming", "Content Creation", "Open Source"]
+    hobbies: ["Content Creation", "Open Source"]
 };
 ```
 
