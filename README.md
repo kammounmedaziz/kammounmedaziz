@@ -28,8 +28,7 @@ const developer = {
         design: ["Adobe Creative Suite", "Figma"],
         ai_ml: ["TensorFlow", "PyTorch"]
     },
-    currentlyLearning: "Advanced AI/ML Techniques",
-    hobbies: ["Content Creation", "Open Source"]
+    currentlyLearning: "Advanced AI/ML Techniques"
 };
 ```
 
