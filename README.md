@@ -19,10 +19,10 @@ const developer = {
     name: "Your Name",
     location: "Tunisia 🇹🇳",
     role: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java",C],
+    code: ["JavaScript", "TypeScript", "Python", "Java","C"],
     technologies: {
-        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap",NextJS],
-        backEnd: ["Node.js", "Django", "Firebase",NestJS],
+        frontEnd: ["React", "HTML5", "CSS3", "Bootstrap","NextJS"],
+        backEnd: ["Node.js", "Django", "Firebase","NestJS"],
         databases: ["MongoDB", "MySQL"],
         devOps: ["Docker", "Git", "Linux"],
         design: ["Adobe Creative Suite", "Figma"],
