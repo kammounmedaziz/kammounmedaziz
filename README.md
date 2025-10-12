@@ -26,7 +26,7 @@ const developer = {
         databases: ["MongoDB", "MySQL"],
         devOps: ["Docker", "Git", "Linux"],
         design: ["Adobe Creative Suite", "Figma"],
-        ai_ml: ["TensorFlow", "PyTorch"]
+        ai_ml: ["TensorFlow", "PyTorch",Haggingface,OpenRouter]
     },
     currentlyLearning: "Advanced AI/ML Techniques"
 };
