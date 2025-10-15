@@ -42,7 +42,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kammounmedaziz&theme=dracula&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false&v=1" alt="GitHub Streak" />
 </div>
 
 <div align="center">
