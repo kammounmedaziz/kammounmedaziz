@@ -38,7 +38,8 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kammounmedaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="180" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@kammounmedaziz&theme=dracula&layout=compact&hide_border=false&custom_title=Time%20Spent%20Coding" alt="WakaTime Stats" />
+
 </div>
 
 <div align="center">
