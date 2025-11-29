@@ -16,7 +16,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Mohamed Aziz Kammoun",
     location: "Tunisia 🇹🇳",
     role: "Full-Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "Java","C"],
