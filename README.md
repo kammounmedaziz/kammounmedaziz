@@ -95,10 +95,9 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kammounmedaziz&theme=dracula&margin-w=10&margin-h=10" />
+## 🏆 GitHub Trophies 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=kammounmedaziz&theme=dracula" alt="kammounmedaziz" /> </a> 
 </p>
 
 ---
