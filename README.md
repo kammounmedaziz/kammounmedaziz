@@ -33,21 +33,23 @@ const developer = {
 };
 ```
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kammounmedaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="180" alt="languages graph" />
+  <!-- FIXED GitHub Stats -->
+  <img src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" />
+  <!-- FIXED Top Languages -->
+  <img src="https://github-readme-stats-kappa-ten.vercel.app/api/top-langs?username=kammounmedaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="180" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false&v=1" alt="GitHub Streak" />
+  <!-- FIXED GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&hide_title=false&area=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
+  <!-- FIXED Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
@@ -100,13 +102,12 @@ const developer = {
   </a>
 </p>
 
-
 ---
 
 ## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kammounmedaziz&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=kammounmedaziz&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -130,15 +131,13 @@ const developer = {
 
 <div align="center">
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=hikma-learn&theme=dracula)](https://github.com/kammounmedaziz/hikma-learn)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=The-Phantom-of-The-Digital-World&theme=dracula)](https://github.com/kammounmedaziz/The-Phantom-of-The-Digital-World)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=AeroCraft&theme=dracula)](https://github.com/kammounmedaziz/AeroCraft)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=MedAzizPortofolio&theme=dracula)](https://github.com/kammounmedaziz/MedAzizPortofolio)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammounmedaziz&repo=AgriFlow&theme=dracula)](https://github.com/kammounmedaziz/AgriFlow)
+  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=hikma-learn&theme=dracula)](https://github.com/kammounmedaziz/hikma-learn)
+  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=The-Phantom-of-The-Digital-World&theme=dracula)](https://github.com/kammounmedaziz/The-Phantom-of-The-Digital-World)
+  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=AeroCraft&theme=dracula)](https://github.com/kammounmedaziz/AeroCraft)
+  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=MedAzizPortofolio&theme=dracula)](https://github.com/kammounmedaziz/MedAzizPortofolio)
+  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=AgriFlow&theme=dracula)](https://github.com/kammounmedaziz/AgriFlow)
 
-  
 </div>
-
 
 ---
 
