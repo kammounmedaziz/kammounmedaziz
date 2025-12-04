@@ -39,7 +39,8 @@ const developer = {
   <!-- FIXED GitHub Stats -->
   <img src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" />
   <!-- FIXED Top Languages -->
-  <img src="https://github-readme-stats-kappa-ten.vercel.app/api/top-langs?username=kammounmedaziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&custom_title=Most%20Used%20Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&hide_border=false" height="180"/>
+
 </div>
 
 <div align="center">
@@ -97,9 +98,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kammounmedaziz&theme=dracula" alt="kammounmedaziz" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=kammounmedaziz&theme=dracula&margin-w=10&margin-h=10" />
 </p>
 
 ---
