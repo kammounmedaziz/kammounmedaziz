@@ -35,30 +35,32 @@ const developer = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" 
-    height="180"
-  />
+  <!-- Left block: GitHub Stats + Streak -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <!-- GitHub Stats -->
+    <img 
+      src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" 
+      height="180"
+    />
+    <!-- GitHub Streak -->
+    <img 
+      src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" 
+      style="margin-top: 0;"
+    />
+  </div>
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=normal&theme=dracula&langs_count=20" 
-    height="180"
-    style="margin-left: 20px;" 
-  />
-
-  <br><br>
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" 
-    style="margin-top: 10px;"
-  />
+  <!-- Right block: Top Languages -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img 
+      src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=normal&theme=dracula&langs_count=20" 
+      height="180"
+    />
+  </div>
 
 </div>
+
 
 
 <div align="center">
