@@ -44,12 +44,8 @@ const developer = {
 
 ---
 
-## 🔹 Top Languages
+## 🔹 Activity
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false" width="400" />
-  &nbsp;&nbsp;
-  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kammounmedaziz&theme=tokyonight" alt="Profile Summary" height="200" />
 </p>
 
