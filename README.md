@@ -54,12 +54,13 @@ const developer = {
   <!-- Right block: Top Languages -->
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img 
-      src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=normal&theme=dracula&langs_count=20" 
+      src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20" 
       height="180"
     />
   </div>
 
 </div>
+
 
 
 
