@@ -46,7 +46,7 @@ const developer = {
 
 ## 🔹 Top Languages
 ![Top Languages](https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false)
-![Most Starred Repo](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=YOUR_MOST_STARRED_REPO&theme=dracula)
+![Followers](https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&show_icons=true&count_private=true&theme=dracula&hide_border=false&include_all_commits=true&custom_title=Followers)
 
 ---
 
