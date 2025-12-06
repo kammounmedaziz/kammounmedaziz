@@ -46,7 +46,7 @@ const developer = {
 
 ## 🔹 Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kammounmedaziz&theme=tokyonight" alt="Profile Summary" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kammounmedaziz&theme=tokyonight" alt="Profile Summary" height="250" />
 </p>
 
 ---
