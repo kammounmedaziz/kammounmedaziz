@@ -37,22 +37,24 @@ const developer = {
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <!-- Left block: GitHub Stats + Streak -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <!-- GitHub Stats -->
-    <img 
-      src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" 
-      height="180"
-    />
-    <!-- GitHub Streak -->
-    <img 
-      src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" 
-      style="margin-top: 0;"
-    />
+  <!-- GitHub Stats + Streak block -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <div style="display: flex; flex-direction: row; gap: 10px;">
+      <!-- GitHub Stats -->
+      <img 
+        src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" 
+        height="180"
+      />
+      <!-- GitHub Streak -->
+      <img 
+        src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" 
+        height="180"
+      />
+    </div>
   </div>
 
-  <!-- Right block: Top Languages -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <!-- Top Languages block -->
+  <div>
     <img 
       src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20" 
       height="180"
@@ -60,6 +62,7 @@ const developer = {
   </div>
 
 </div>
+
 
 
 
