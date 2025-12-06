@@ -46,7 +46,7 @@ const developer = {
 
 ## 🔹 Top Languages
 ![Top Languages](https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false)
-![Total Commits](https://img.shields.io/badge/Total_Commits-SEE_STATS-brightgreen?style=for-the-badge)
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=kammounmedaziz&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
 
 ---
 
