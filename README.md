@@ -46,12 +46,12 @@ const developer = {
 
 ## 🔹 Top Languages
 ![Top Languages](https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false)
-![Followers](https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&show_icons=true&count_private=true&theme=dracula&hide_border=false&include_all_commits=true&custom_title=Followers)
 
 ---
 
 ## 🔹 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph)
+![Total Commits](https://github-readme-stats.vercel.app/api?username=kammounmedaziz&count_private=true&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&custom_title=Total%20Commits)
 
 
 
