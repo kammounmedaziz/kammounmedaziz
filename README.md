@@ -35,42 +35,27 @@ const developer = {
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
-  <!-- GitHub Stats + Streak block -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <div style="display: flex; flex-direction: row; gap: 10px;">
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
       <!-- GitHub Stats -->
-      <img 
-        src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" 
-        height="180"
-      />
+      ![GitHub Stats](https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats)
+      
       <!-- GitHub Streak -->
-      <img 
-        src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" 
-        height="180"
-      />
-    </div>
-  </div>
-
-  <!-- Top Languages block -->
-  <div>
-    <img 
-      src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20" 
-      height="180"
-    />
-  </div>
-
-</div>
-
-
-
-
+      ![GitHub Streak](https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false)
+    </td>
+    <td valign="top" width="50%">
+      <!-- Top Languages -->
+      ![Top Languages](https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false)
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <!-- FIXED Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph" />
+  <!-- Activity Graph -->
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph)
 </div>
+
 
 ---
 
