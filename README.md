@@ -35,20 +35,21 @@ const developer = {
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats)
+# 📊 GitHub Overview
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false)
+<!-- Group GitHub Stats and Streak side by side using inline images -->
+<p align="center">
+  <img src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false" width="45%" />
+</p>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false)
-
-<!-- Contribution Graph -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph)
-
-
-
+<!-- Group Top Languages and Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-stats-mu-gilt.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&langs_count=20&hide_border=false" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph" width="45%" />
+</p>
 
 ---
 
