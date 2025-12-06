@@ -39,7 +39,7 @@ const developer = {
   <!-- FIXED GitHub Stats -->
   <img src="https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="180" />
   <!-- FIXED Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&hide_border=false" height="180"/>
+<img src="https://github-readme-stats-kappa-ten.vercel.app/api/top-langs/?username=kammounmedaziz&layout=compact&theme=dracula&hide_border=false" height="180"/>
 
 </div>
 
