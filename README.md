@@ -40,8 +40,8 @@ const developer = {
 
 ## 🔹 GitHub Stats & Streak
 ![GitHub Stats](https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=kammounmedaziz&theme=dracula&hide_border=false)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kammounmedaziz&theme=dracula)
 ---
 
 ## 🔹 Activity
@@ -122,9 +122,7 @@ const developer = {
   [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/med.aziz.kammoun)
   [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/yourdiscord)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:kammounaziz12@gmail.com)
-  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-  [![Behance](https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge)](https://behance.net/yourprofile)
-  [![Stack Overflow](https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/yourprofile)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-aziz-kammoun-6424ba195/))
 
 </div>
 
