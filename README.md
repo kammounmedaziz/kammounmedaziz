@@ -26,7 +26,7 @@ const developer = {
         databases: ["MongoDB", "MySQL"],
         devOps: ["Docker", "Git", "Linux"],
         design: ["Adobe Creative Suite", "Figma"],
-        ai_ml: ["TensorFlow", "PyTorch","Haggingface","OpenRouter"],
+        ai_ml: ["TensorFlow", "PyTorch","HuggingFace","OpenRouter"],
         embedded: ["ESP32","RFID"]
     },
     currentlyLearning: "Advanced AI/ML Techniques"
@@ -39,20 +39,20 @@ const developer = {
 ---
 
 ## 🔹 GitHub Stats & Streak
-![GitHub Stats](https://github-readme-stats-kappa-ten.vercel.app/api?username=kammounmedaziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats-kappa-ten.vercel.app/api?username=Vanyro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=GitHub%20Stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kammounmedaziz&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vanyro&theme=dracula)
 ---
 
 ## 🔹 Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kammounmedaziz&theme=tokyonight" alt="Profile Summary" height="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanyro&theme=tokyonight" alt="Profile Summary" height="250" />
 </p>
 
 ---
 
 ## 🔹 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kammounmedaziz&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanyro&theme=dracula&hide_border=false&area=true&custom_title=Contribution%20Graph)
 
 
 
@@ -68,10 +68,10 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nextjs,vite" />
 
 ### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,django,firebase,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,nestjs,firebase,mongodb,mysql" />
 
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel" />
@@ -80,7 +80,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />
 
 ### 🤖 AI/ML & Hardware
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,arduino" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface,esp32" />
 
 </div>
 
@@ -102,7 +102,7 @@ const developer = {
 
 ## 🏆 GitHub Trophies
 <p align="left"> 
-  <img src="https://your-username-trophy.vercel.app/?username=kammounmedaziz&theme=dracula" alt="kammounmedaziz" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanyro&theme=dracula" alt="Vanyro" /> 
 </p>
 
 
@@ -111,7 +111,7 @@ const developer = {
 ## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kammounmedaziz&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Vanyro&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -133,11 +133,12 @@ const developer = {
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=hikma-learn&theme=dracula)](https://github.com/kammounmedaziz/hikma-learn)
-  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=The-Phantom-of-The-Digital-World&theme=dracula)](https://github.com/kammounmedaziz/The-Phantom-of-The-Digital-World)
-  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=AeroCraft&theme=dracula)](https://github.com/kammounmedaziz/AeroCraft)
-  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=MedAzizPortofolio&theme=dracula)](https://github.com/kammounmedaziz/MedAzizPortofolio)
-  [![Readme Card](https://github-readme-stats-kappa-ten.vercel.app/api/pin/?username=kammounmedaziz&repo=AgriFlow&theme=dracula)](https://github.com/kammounmedaziz/AgriFlow)
+  [![SoundController](https://github-readme-stats.vercel.app/api/pin/?username=Vanyro&repo=SoundController)](https://github.com/Vanyro/SoundController)
+  [![code-review-buddy](https://github-readme-stats.vercel.app/api/pin/?username=Vanyro&repo=code-review-buddy)](https://github.com/Vanyro/code-review-buddy)
+  [![harry-potter-sorting-ceremony](https://github-readme-stats.vercel.app/api/pin/?username=Vanyro&repo=harry-potter-sorting-ceremony)](https://github.com/Vanyro/harry-potter-sorting-ceremony)
+  [![hikma-learn](https://github-readme-stats.vercel.app/api/pin/?username=Vanyro&repo=hikma-learn)](https://github.com/Vanyro/hikma-learn)
+  [![e-krini](https://github-readme-stats.vercel.app/api/pin/?username=Vanyro&repo=e-krini)](https://github.com/Vanyro/e-krini)
+  [![ConvoSummarizer](https://github-readme-stats.vercel.app/api/pin/?username=Vanyro&repo=ConvoSummarizer)](https://github.com/Vanyro/ConvoSummarizer)
 
 </div>
 
